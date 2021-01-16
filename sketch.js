@@ -112,7 +112,7 @@ async function getBackgroundImg(){
     if(hour>=0600 && hour<=1900){
         bg = "sprites/bg1.png";
     }
-    else{
+    else{ 
         bg = "sprites/bg2.jpg";
     }
 
